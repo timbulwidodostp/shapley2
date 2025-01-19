@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'shapley2': Compute additive decomposition of estimation statistics by regressors or groups of regressors Use shapley2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f shapley2.ado
+f shapley2.hlp
